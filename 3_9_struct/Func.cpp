@@ -231,13 +231,3 @@ void MaxLengthMarch(MARSHRUT *m, int *length)
 	}
 	printInfoMar(m + index);
 }
-
-
-struct ABON
-{
-	char FIO;
-	int nomer;
-	Date *date;
-	int *sumNach;
-	int *sumSchet;
-};
